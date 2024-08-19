@@ -1,4 +1,4 @@
-package com.telusko.demoApp;
+package com.saireddy.demoApp;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

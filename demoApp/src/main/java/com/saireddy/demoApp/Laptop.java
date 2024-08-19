@@ -1,4 +1,4 @@
-package com.telusko.demoApp;
+package com.saireddy.demoApp;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
